@@ -1,0 +1,6 @@
+Flask>=3.0.3
+Flask-Limiter>=3.10.1
+cryptography>=43.0.3
+qiskit>=1.2.4
+qiskit-ibm-runtime>=0.25.0
+qiskit-aer>=0.15.1
